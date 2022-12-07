@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1670420164 source:c:\users\fia\desktop\recusegundoparciallaboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"salida.h"
+	"validaciones.h"
+	"LinkedList.h"
+
+1670420042 source:c:\users\fia\desktop\recusegundoparciallaboratorio\posteos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"posteos.h"
+
+1670420042 c:\users\fia\desktop\recusegundoparciallaboratorio\posteos.h
+
+1670415480 source:c:\users\fia\desktop\recusegundoparciallaboratorio\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1669804134 c:\users\fia\desktop\recusegundoparciallaboratorio\linkedlist.h
+
+1670416115 source:c:\users\fia\desktop\recusegundoparciallaboratorio\salida.c
+	<stdio.h>
+	<stdlib.h>
+
+1670420187 source:c:\users\fia\desktop\recusegundoparciallaboratorio\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"validaciones.h"
+
+1670420211 c:\users\fia\desktop\recusegundoparciallaboratorio\validaciones.h
+
+1670420042 c:\users\fia\desktop\recusegundoparciallaboratorio\salida.h
+
+1670418066 source:c:\users\fia\desktop\recusegundoparciallaboratorio\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"LinkedList.h"
+	"posteos.h"
+	"controller.h"
+
+1670420042 c:\users\fia\desktop\recusegundoparciallaboratorio\controller.h
+
